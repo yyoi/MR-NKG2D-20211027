@@ -7,7 +7,7 @@ This repository stores codes and data used in “Low MICA gene expression confer
 
 ## Citation
 If you use our program and data, please cite: 
-[Low MICA gene expression confers an increased risk of Graves’ disease: a Mendelian randomization study](https://)
+[Low MICA gene expression confers an increased risk of Graves’ disease: a Mendelian randomization study](https://) (in press)
 
 For TwoSampleMR, please see:
 [TwoSampleMR](https://mrcieu.github.io/TwoSampleMR/authors.html)
