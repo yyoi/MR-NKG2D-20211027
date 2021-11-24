@@ -1,0 +1,2 @@
+id.exposure id.outcome outcome exposure egger_intercept se pval
+parQFV viFA68 5A02.0.Graves Expression 0.025491460035036 0.0124605538018298 0.0800281616089715

@@ -1,0 +1,2 @@
+id.exposure id.outcome outcome exposure egger_intercept se pval
+parQFV sRxeRd 1E51.0Z.CHB Expression 0.00277123941716599 0.0121826686840632 0.827608309133472

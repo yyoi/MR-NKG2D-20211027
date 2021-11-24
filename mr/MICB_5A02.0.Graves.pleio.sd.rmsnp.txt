@@ -1,0 +1,2 @@
+id.exposure id.outcome outcome exposure egger_intercept se pval
+4X5gS6 ZOyKyO 5A02.0.Graves Expression 0.00952593900204554 0.0277517116301265 0.764129826826995

@@ -1,0 +1,2 @@
+id.exposure id.outcome outcome exposure egger_intercept se pval
+4X5gS6 e4ruxW 1E51.0Z.CHB Expression 0.00434281977773024 0.0157148577030577 0.828353319049094
