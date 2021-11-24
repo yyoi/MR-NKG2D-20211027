@@ -1,5 +1,5 @@
 # MR-NKG2D-20211027
-This repository stores codes and data used in “Low MICA gene expression confers an increased risk of Graves’ disease: a Mendelian randomization study” (PMID: XXXXXXX). 
+This repository stores codes and data used in “Low MICA gene expression confers an increased risk of Graves’ disease: a Mendelian randomization study” (in press)
 
 ## How to use
 1. Install all dependency packages into R, such as devtools, TwoSampleMR, tidyverse, and data.table.
